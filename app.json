@@ -38,6 +38,18 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-font", {
+          "fonts":[
+            "./assets/fonts/PlusJakartaSans-light.ttf",
+            "./assets/fonts/PlusJakartaSans-regular.ttf",
+            "./assets/fonts/PlusJakartaSans-medium.ttf",
+            "./assets/fonts/PlusJakartaSans-semibold.ttf",
+            "./assets/fonts/PlusJakartaSans-bold.ttf",
+            "./assets/fonts/PlusJakartaSans-extrabold.ttf"
+          ]
+        }
       ]
     ],
     "experiments": {
